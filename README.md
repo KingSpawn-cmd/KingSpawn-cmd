@@ -29,7 +29,7 @@ name: "Prince Isaiah"
 role: "Software Developer"
 focus: ["Frontend", "Backend", "Full Stack"]
 currently_learning: ["System Design", "Cloud Architecture"]
-current_project: "your-project-name"
+current_project: "smartgarage360"
 fun_fact: "Ships code at night, powered by anime openings 🎧"
 location: "Your City, Country"
 ```
@@ -81,12 +81,12 @@ location: "Your City, Country"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b983ff&icon_color=9d4edd&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b983ff&text_color=c9d1d9" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KingSpawn-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b983ff&icon_color=9d4edd&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingSpawn-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b983ff&text_color=c9d1d9" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=b983ff&ring=9d4edd&fire=ff4d6d" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KingSpawn-cmd&theme=tokyonight&hide_border=true&background=0D1117&stroke=b983ff&ring=9d4edd&fire=ff4d6d" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b983ff&line=9d4edd&point=ff4d6d" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KingSpawn-cmd&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b983ff&line=9d4edd&point=ff4d6d" width="90%"/>
 
 </div>
 
@@ -95,7 +95,7 @@ location: "Your City, Country"
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KingSpawn-cmd&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
@@ -105,8 +105,8 @@ location: "Your City, Country"
 <div align="center">
 
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1a1a2e?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/@immekal"><img src="https://img.shields.io/badge/Twitter-1a1a2e?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:princeimmeka@gmail.com"><img src="https://img.shields.io/badge/Email-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://dev.to/yourhandle"><img src="https://img.shields.io/badge/Dev.to-0f0c29?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
