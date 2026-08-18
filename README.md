@@ -25,7 +25,7 @@
 ### 🌙 About Me
 
 ```yaml
-name: "KingSpawm-cmd"
+name: "Prince Isaiah"
 role: "Software Developer"
 focus: ["Frontend", "Backend", "Full Stack"]
 currently_learning: ["System Design", "Cloud Architecture"]
